@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsharma18" alt="harshitsharma18" /></a> </p>
 
-- 🌱 I’m currently learning about **Data Structures and Algorithm , Jupyter Notebook ,UI/UX**
+- 🌱 I’m currently learning about **Data Structures and Algorithm , Web Development, ,UI/UX , Cinematography , Video Editing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HARSHITSHARMA18](https://github.com/HARSHITSHARMA18)
 
