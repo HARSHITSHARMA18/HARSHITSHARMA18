@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/HARSHITSHARMA18/HARSHITSHARMA18/blob/main/LINKED%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
 <h3 align="center">Nothing Cliché, but I am someone who wanted to a make dent in the world</h3>
 
