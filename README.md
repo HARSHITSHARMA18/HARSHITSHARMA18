@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithm ,Html , CSS , JavaScript , UI/UX ,Web Design, Pinterest Branding and Growth**
 
-- 📫 How to reach me **18deepanshu11@gmail.com**
+- 📫 How to reach me **18harshitsharma11@gmail.com**
 
 - ⚡ Fun fact **I am always the one in group ,who has watched more movies**
 
