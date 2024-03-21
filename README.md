@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/HARSHITSHARMA18/HARSHITSHARMA18/blob/main/LINKED%20BANNER.png)
 # 💫 About Me:
-Creating, Making, and Breaking Pixels Online! I'm Harshit Sharma, a final year undergrad at Delhi Technological University( DTU ), based in Delhi, a Web Developer, Designer, Technical writer and Content Creator. I am on a visual journey where I craft stunning designs, breathe life into pixels, and explore the endless possibilities of the online canvas.
+Creating, Making, and Breaking Pixels Online! I'm Harshit Sharma, a final year undergrad , based in Delhi, a Web Developer, Designer, Technical writer and Content Creator. I am on a visual journey where I craft stunning designs, breathe life into pixels, and explore the endless possibilities of the online canvas.
 
 I have also been a Mentee in Microsoft Intern Engage Program '22 and a Alpha Microsoft Student Ambassador. I have also been part of various clubs and societies such as Executive at Entrepreneurship Cell and Co head ( Public Relation ) at Yuvaan <br><br><br><br>
 
