@@ -15,8 +15,7 @@ I have also been a Mentee in Microsoft Intern Engage Program '22 and a Alpha Mic
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitsharma18&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshitsharma18&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshitsharma18&icon=0&color=2)](https://visitcount.itsvg.in)
