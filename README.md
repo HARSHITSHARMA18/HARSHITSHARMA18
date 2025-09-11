@@ -3,14 +3,9 @@
 
 
 
-- Creating, Making, and Breaking Pixels Online! I'm Harshit Sharma, a final year undergrad, based in Delhi, a Web Developer, Designer, Technical writer, and Content Creator
-
-
-- I have also been part of various clubs and societies such as Executive at Entrepreneurship Cell and Co-head ( Public Relations) at Yuvaan
-
-- I have also been a Mentee in the Microsoft Intern Engage Program '22 and an Alpha Microsoft Student Ambassador
+- Building Solace UI | Tinkering around AI, Design, and Tech
 - 👨‍💻 All of my projects are available at [https://github.com/HARSHITSHARMA18](https://github.com/HARSHITSHARMA18)
-- 📫 How to reach me **18harshitsharma11@gmail.com**
+- 📫 How to reach me: **18harshitsharma11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
