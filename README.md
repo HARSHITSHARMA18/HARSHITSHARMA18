@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/HARSHITSHARMA18/HARSHITSHARMA18/blob/main/LINKED%20BANNER.png)
+![MasterHead](https://github.com/HARSHITSHARMA18/HARSHITSHARMA18/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
 
 
